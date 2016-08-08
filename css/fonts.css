@@ -1,0 +1,41 @@
+@font-face{
+	font-family: "NobileRegular";
+	src: url("../fonts/Nobile/Nobile-Regular.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "NobileBold";
+	src: url("../fonts/Nobile/Nobile-Bold.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "NobileItalic";
+	src: url("../fonts/Nobile/Nobile-Italic.ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "BlessedDay";
+	src: url("../fonts/Blessed_day/BLESD___ .ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "OpenSans";
+	src: url("../fonts/Open_sans/open-sans_[allfont.ru].ttf");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face{
+	font-family: "MyriadProRegular";
+	src: url("../fonts/MyriadPro/MyriadPro-Regular.otf");
+	font-style: normal;
+	font-weight: normal;
+}
